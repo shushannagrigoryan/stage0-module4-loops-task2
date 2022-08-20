@@ -3,8 +3,8 @@ package school.mjc.stage0.loops.task2;
 public class PrimeNumbers {
     public void printPrimeNumbers(int printToInclusive) {
         int temp = 2;
-        System.out.println(temp);
-        temp++;
+        //System.out.println(temp);
+        //temp++;
         int t1 = 1;
         int count = 0;
         while(temp <= printToInclusive){
