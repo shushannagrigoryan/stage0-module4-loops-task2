@@ -4,10 +4,10 @@ public class WordsBuilder {
     public void buildPhrase(char... chars) {
         System.out.println(chars);
         int temp = 0;
-        while(temp < chars.length){
-            System.out.println(chars);
-            temp++;
-        }
+//        while(temp < chars.length){
+//            System.out.println(chars);
+//            temp++;
+//        }
 
     }
 }
